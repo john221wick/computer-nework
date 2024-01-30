@@ -1,4 +1,4 @@
-# RDT 3.0 Implementation README
+# RDT 3.0 Implementatiom
 
 ## Overview
 This is a basic implementation of the RDT (Reliable Data Transfer) 3.0 protocol using Python's socket programming. The code demonstrates reliable transmission of data over a network with packet loss simulation.
